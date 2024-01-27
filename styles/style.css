@@ -219,7 +219,7 @@ footer {
 @media (min-width: 50em) {
     footer {
         width: 100%;
-		position: fixed;
+		position: relative;
     }
 }
 
